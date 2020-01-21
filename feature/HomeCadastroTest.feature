@@ -4,12 +4,12 @@
 @CadastroComSucesso
 Funcionalidade: Cadastra Usuario
 
-Cenário: Cadastra Usuario Novo no Site
-Dado Que usuario está na pagina inicial
-Quando vai para a pagina de login
-E clica para fazer o cadastro
-E preenche o formulario de cadastro com os seus dados
-Então é cadastrado com sucesso
+Cenário: Cadastrar Usuario Novo no Site
+Dado que estou na pagina inicail
+Quando clico no botao login
+E clico no botao cadastro
+E preecho meus dados
+Então cadastrado com sucesso
 
 
 
